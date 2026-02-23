@@ -1,0 +1,118 @@
+﻿:root {
+  --handmade-accent: #ff5a5f;
+  --handmade-accent-2: #0ea5e9;
+  --handmade-bg: rgba(255, 255, 255, 0.72);
+  --handmade-border: rgba(255, 255, 255, 0.6);
+  --handmade-shadow: 0 18px 40px rgba(18, 32, 56, 0.12);
+}
+
+.main-nav-icon::before,
+.main-nav-icon::after {
+  content: "" !important;
+}
+
+.main-nav-icon {
+  display: inline-block;
+  width: 1.15em;
+  height: 1.15em;
+  background: url("/images/taichi.png") center/contain no-repeat;
+  font-size: 0;
+  line-height: 0;
+}
+
+.main-nav-item:hover .main-nav-icon,
+.main-nav-item.active .main-nav-icon,
+.main-nav-item.is-active .main-nav-icon {
+  background-image: url("/images/taichi-fill.png");
+}
+
+.home-hero {
+  margin: 8px 0 20px;
+  padding: 18px 20px;
+  border-radius: 20px;
+  background: linear-gradient(120deg, rgba(255, 90, 95, 0.14), rgba(14, 165, 233, 0.12));
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  box-shadow: var(--handmade-shadow);
+  backdrop-filter: blur(6px);
+}
+
+.home-hero-title {
+  margin: 0 0 6px;
+  font-size: 1.35rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.home-hero-subtitle {
+  margin: 0;
+  opacity: 0.85;
+}
+
+.home-hero-status {
+  margin-top: 12px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.home-hero-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 650;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.home-hero-pill.hot {
+  color: #fff;
+  border-color: transparent;
+  background: linear-gradient(120deg, var(--handmade-accent), #fb7185);
+}
+
+.post-wrap {
+  border: 1px solid var(--handmade-border);
+  background: var(--handmade-bg);
+  box-shadow: var(--handmade-shadow);
+  border-radius: 20px;
+  transition: transform 0.24s ease, box-shadow 0.24s ease;
+}
+
+.post-wrap:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 24px 50px rgba(18, 32, 56, 0.16);
+}
+
+.post-cover img {
+  filter: saturate(1.06) contrast(1.03);
+}
+
+.post-title {
+  letter-spacing: 0.01em;
+}
+
+.post-article {
+  line-height: 1.72;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.post-meta {
+  opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+  .home-hero {
+    margin-top: 0;
+    border-radius: 16px;
+    padding: 14px;
+  }
+
+  .post-wrap {
+    border-radius: 16px;
+  }
+}
