@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary on bwmd</title>
+    <link>https://beiweimd.github.io/categories/diary/</link>
+    <description>Recent content from bwmd</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>baoluolaiaoduo@gmail.com (bwmd)</managingEditor>
+    <webMaster>baoluolaiaoduo@gmail.com (bwmd)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Thu, 12 Feb 2026 20:00:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://beiweimd.github.io/categories/diary/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>Hello World</title>
+      <link>https://beiweimd.github.io/post/hello-world/</link>
+      <pubDate>Thu, 12 Feb 2026 20:00:00 &#43;0800</pubDate>
+      <author>baoluolaiaoduo@gmail.com (bwmd)</author>
+      <guid>https://beiweimd.github.io/post/hello-world/</guid>
+      <description>
+        <![CDATA[<h1>Hello World</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+        
+          <p>Welcome! This is the first post used to verify that the home page list renders correctly.</p>
+        
+        <hr><p>本文2026-02-12首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-12</p>]]>
+      </description>
+      
+        <category>Diary</category>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bwmd</title>
+    <link>https://beiweimd.github.io/post/</link>
+    <description>Recent content from bwmd</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>baoluolaiaoduo@gmail.com (bwmd)</managingEditor>
+    <webMaster>baoluolaiaoduo@gmail.com (bwmd)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Sun, 15 Feb 2026 09:30:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://beiweimd.github.io/post/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>2026-02-15</title>
+      <link>https://beiweimd.github.io/post/2026-02-15/</link>
+      <pubDate>Sun, 15 Feb 2026 09:30:00 &#43;0800</pubDate>
+      <author>baoluolaiaoduo@gmail.com (bwmd)</author>
+      <guid>https://beiweimd.github.io/post/2026-02-15/</guid>
+      <description>
+        <![CDATA[<h1>2026-02-15</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+        
+          <h2 id="考研线代">
+<a class="header-anchor" href="#%e8%80%83%e7%a0%94%e7%ba%bf%e4%bb%a3"></a>
+考研/线代
+</h2><ul>
+<li>高斯消元：把方程组写成增广矩阵，化成上三角</li>
+<li>易错点：主元为 0 时换行；消元顺序别乱</li>
+</ul>
+<h2 id="acm">
+<a class="header-anchor" href="#acm"></a>
+ACM
+</h2><ul>
+<li>前缀和：<code>sum(l,r)=pre[r]-pre[l-1]</code></li>
+<li>差分：区间加 <code>diff[l]+=x; diff[r+1]-=x</code></li>
+</ul>
+<h2 id="ml">
+<a class="header-anchor" href="#ml"></a>
+ML
+</h2><ul>
+<li>逻辑回归：<code>sigmoid(z)=1/(1+e^{-z})</code></li>
+<li>损失：交叉熵（不要用 MSE）</li>
+</ul>
+        
+        <hr><p>本文2026-02-15首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-15</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>Hello World</title>
+      <link>https://beiweimd.github.io/post/hello-world/</link>
+      <pubDate>Thu, 12 Feb 2026 20:00:00 &#43;0800</pubDate>
+      <author>baoluolaiaoduo@gmail.com (bwmd)</author>
+      <guid>https://beiweimd.github.io/post/hello-world/</guid>
+      <description>
+        <![CDATA[<h1>Hello World</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+        
+          <p>Welcome! This is the first post used to verify that the home page list renders correctly.</p>
+        
+        <hr><p>本文2026-02-12首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-12</p>]]>
+      </description>
+      
+        <category>Diary</category>
+      
+    </item>
+    
+  </channel>
+</rss>

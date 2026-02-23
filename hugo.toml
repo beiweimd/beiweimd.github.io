@@ -1,0 +1,26 @@
+baseURL = "https://beiweimd.github.io/"
+languageCode = "zh-CN"
+defaultContentLanguage = "zh-CN"
+title = "bwmd"
+theme = "reimu"
+enableRobotsTXT = true
+
+[languages]
+  [languages.zh-CN]
+    languageName = "zh-CN"
+    weight = 1
+    hasCJKLanguage = true
+
+[markup.highlight]
+  guessSyntax = true
+  noClasses = false
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 10
+
+[params]
+  customCSS = ["css/custom.css"]
+  custom_css = ["css/custom.css"]
