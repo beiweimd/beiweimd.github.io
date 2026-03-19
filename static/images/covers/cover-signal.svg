@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Signal Cover</title>
+  <desc id="desc">A dark technical cover with signal bars and neon accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090c12"/>
+      <stop offset="55%" stop-color="#1b2433"/>
+      <stop offset="100%" stop-color="#355d7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <g fill="rgba(255,255,255,0.10)">
+    <rect x="114" y="168" width="64" height="420" rx="18"/>
+    <rect x="206" y="230" width="64" height="358" rx="18"/>
+    <rect x="298" y="120" width="64" height="468" rx="18"/>
+    <rect x="390" y="272" width="64" height="316" rx="18"/>
+    <rect x="482" y="194" width="64" height="394" rx="18"/>
+  </g>
+  <path d="M642 600c120-100 170-280 294-280 108 0 116 124 200 124 96 0 134-154 274-154 74 0 120 48 190 92" fill="none" stroke="#8de1ff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M642 668c96-44 162-96 258-96 100 0 144 62 242 62s158-48 238-48c90 0 156 26 220 50" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="6" stroke-linecap="round"/>
+  <text x="640" y="230" fill="#eef8ff" font-size="118" font-family="Georgia, serif" letter-spacing="10">SIGNAL</text>
+  <text x="646" y="312" fill="rgba(238,248,255,0.82)" font-size="30" font-family="Verdana, sans-serif" letter-spacing="4">DEBUG  TRACE  ITERATE</text>
+  <text x="114" y="770" fill="rgba(255,255,255,0.72)" font-size="24" font-family="Consolas, monospace">vector&lt;long long&gt; note;</text>
+</svg>

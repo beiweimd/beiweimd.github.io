@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Grid Cover</title>
+  <desc id="desc">A warm red cover with grids and orbit lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#140b18"/>
+      <stop offset="55%" stop-color="#8b233f"/>
+      <stop offset="100%" stop-color="#f06a4e"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="rgba(255,255,255,0.14)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+  <circle cx="1240" cy="180" r="260" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="1240" cy="180" r="180" fill="none" stroke="rgba(255,255,255,0.24)" stroke-width="2"/>
+  <circle cx="1240" cy="180" r="120" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <path d="M0 720C220 660 340 560 520 560s300 120 520 120 340-100 560-40V900H0Z" fill="rgba(10,8,18,0.32)"/>
+  <path d="M140 230c220 80 360 200 530 150 130-38 196-146 332-160 152-15 260 88 458 50" fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="4" stroke-linecap="round"/>
+  <text x="130" y="250" fill="#fff4ef" font-size="118" font-family="Georgia, serif" letter-spacing="8">NOTES</text>
+  <text x="138" y="338" fill="rgba(255,244,239,0.85)" font-size="28" font-family="Verdana, sans-serif" letter-spacing="6">MATH   CODE   DIARY</text>
+  <text x="138" y="790" fill="rgba(255,255,255,0.7)" font-size="22" font-family="Consolas, monospace">det(A)  adj(A)  inverse(A)</text>
+</svg>
