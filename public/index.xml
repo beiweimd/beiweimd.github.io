@@ -1,34 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>bwmd</title>
-    <link>https://beiweimd.github.io/</link>
-    <description>Recent content from bwmd</description>
-    <generator>Hugo</generator>
-    <language>zh-CN</language>
-    
-    <managingEditor>baoluolaiaoduo@gmail.com (bwmd)</managingEditor>
-    <webMaster>baoluolaiaoduo@gmail.com (bwmd)</webMaster>
-    
-    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
-    
-    <lastBuildDate>Sun, 15 Feb 2026 09:30:00 +0800</lastBuildDate>
-    
-    
-    <atom:link href="https://beiweimd.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
-    
-
-    
-    
-
-    <item>
-      <title>2026-02-15</title>
-      <link>https://beiweimd.github.io/post/2026-02-15/</link>
-      <pubDate>Sun, 15 Feb 2026 09:30:00 &#43;0800</pubDate>
-      <author>baoluolaiaoduo@gmail.com (bwmd)</author>
-      <guid>https://beiweimd.github.io/post/2026-02-15/</guid>
-      <description>
-        <![CDATA[<h1>2026-02-15</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bwmd</title><link>https://beiweimd.github.io/</link><description>Recent content from bwmd</description><generator>Hugo</generator><language>zh-CN</language><managingEditor>baoluolaiaoduo@gmail.com (bwmd)</managingEditor><webMaster>baoluolaiaoduo@gmail.com (bwmd)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Thu, 19 Mar 2026 20:00:00 +0800</lastBuildDate><atom:link href="https://beiweimd.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2017 湖南邀请赛 A - Determinant</title><link>https://beiweimd.github.io/post/2026-03-19-determinant/</link><pubDate>Thu, 19 Mar 2026 20:00:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/2026-03-19-determinant/</guid><description>
+<![CDATA[<h1>2017 湖南邀请赛 A - Determinant</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+        
+          <h2 id="acm">
+<a class="header-anchor" href="#acm"></a>
+ACM
+</h2><h3 id="题意重述">
+<a class="header-anchor" href="#%e9%a2%98%e6%84%8f%e9%87%8d%e8%bf%b0"></a>
+题意重述
+</h3><p>给定一个 $(n-1) \times n$ 的矩阵，要求每删去一列后得到的 $(n-1) \times (n-1)$ 子矩阵行列式。</p>
+<p>这类量本质上就是同一行上的一组代数余子式。这里更准确地说，是“删列”，不是“删行”。</p>
+        
+        <hr><p>本文2026-03-19首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-03-19</p>]]></description><category>ACM</category><category>考研</category></item><item><title>Auto Deploy Test</title><link>https://beiweimd.github.io/post/auto-deploy-test/</link><pubDate>Mon, 23 Feb 2026 21:53:49 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/auto-deploy-test/</guid><description>
+<![CDATA[<h1>Auto Deploy Test</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+        
+          
+        
+        <hr><p>本文2026-02-23首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-23</p>]]></description></item><item><title>2026-02-15</title><link>https://beiweimd.github.io/post/2026-02-15/</link><pubDate>Sun, 15 Feb 2026 09:30:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/2026-02-15/</guid><description>
+<![CDATA[<h1>2026-02-15</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
         
           <h2 id="考研线代">
 <a class="header-anchor" href="#%e8%80%83%e7%a0%94%e7%ba%bf%e4%bb%a3"></a>
@@ -52,30 +40,9 @@ ML
 <li>损失：交叉熵（不要用 MSE）</li>
 </ul>
         
-        <hr><p>本文2026-02-15首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-15</p>]]>
-      </description>
-      
-    </item>
-    
-    
-
-    <item>
-      <title>Hello World</title>
-      <link>https://beiweimd.github.io/post/hello-world/</link>
-      <pubDate>Thu, 12 Feb 2026 20:00:00 &#43;0800</pubDate>
-      <author>baoluolaiaoduo@gmail.com (bwmd)</author>
-      <guid>https://beiweimd.github.io/post/hello-world/</guid>
-      <description>
-        <![CDATA[<h1>Hello World</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+        <hr><p>本文2026-02-15首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-15</p>]]></description></item><item><title>Hello World</title><link>https://beiweimd.github.io/post/hello-world/</link><pubDate>Thu, 12 Feb 2026 20:00:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/hello-world/</guid><description>
+<![CDATA[<h1>Hello World</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
         
           <p>Welcome! This is the first post used to verify that the home page list renders correctly.</p>
         
-        <hr><p>本文2026-02-12首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-12</p>]]>
-      </description>
-      
-        <category>Diary</category>
-      
-    </item>
-    
-  </channel>
-</rss>
+        <hr><p>本文2026-02-12首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-12</p>]]></description><category>Diary</category></item></channel></rss>

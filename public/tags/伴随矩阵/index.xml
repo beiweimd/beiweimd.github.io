@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>伴随矩阵 on bwmd</title><link>https://beiweimd.github.io/tags/%E4%BC%B4%E9%9A%8F%E7%9F%A9%E9%98%B5/</link><description>Recent content from bwmd</description><generator>Hugo</generator><language>zh-CN</language><managingEditor>baoluolaiaoduo@gmail.com (bwmd)</managingEditor><webMaster>baoluolaiaoduo@gmail.com (bwmd)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Thu, 19 Mar 2026 20:00:00 +0800</lastBuildDate><atom:link href="https://beiweimd.github.io/tags/%E4%BC%B4%E9%9A%8F%E7%9F%A9%E9%98%B5/index.xml" rel="self" type="application/rss+xml"/><item><title>2017 湖南邀请赛 A - Determinant</title><link>https://beiweimd.github.io/post/2026-03-19-determinant/</link><pubDate>Thu, 19 Mar 2026 20:00:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/2026-03-19-determinant/</guid><description>
+<![CDATA[<h1>2017 湖南邀请赛 A - Determinant</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+        
+          <h2 id="acm">
+<a class="header-anchor" href="#acm"></a>
+ACM
+</h2><h3 id="题意重述">
+<a class="header-anchor" href="#%e9%a2%98%e6%84%8f%e9%87%8d%e8%bf%b0"></a>
+题意重述
+</h3><p>给定一个 $(n-1) \times n$ 的矩阵，要求每删去一列后得到的 $(n-1) \times (n-1)$ 子矩阵行列式。</p>
+<p>这类量本质上就是同一行上的一组代数余子式。这里更准确地说，是“删列”，不是“删行”。</p>
+        
+        <hr><p>本文2026-03-19首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-03-19</p>]]></description><category>ACM</category><category>考研</category></item></channel></rss>
