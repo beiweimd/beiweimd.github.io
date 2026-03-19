@@ -1,7 +1,7 @@
 ---
 title: "2017 湖南邀请赛 A - Determinant"
 date: 2026-03-19T20:00:00+08:00
-cover: "/images/covers/cover-16598.jpg"
+cover: "/images/banner.webp"
 description: "把一道 ACM 行列式题和伴随矩阵知识点整理到同一篇笔记里，核心是增广成可逆方阵，再通过逆矩阵读出代数余子式。"
 categories: ["ACM", "考研"]
 tags: ["线性代数", "行列式", "伴随矩阵", "代数余子式", "高斯消元"]
