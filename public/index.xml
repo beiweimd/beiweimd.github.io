@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bwmd</title><link>https://beiweimd.github.io/</link><description>Recent content from bwmd</description><generator>Hugo</generator><language>zh-CN</language><managingEditor>baoluolaiaoduo@gmail.com (bwmd)</managingEditor><webMaster>baoluolaiaoduo@gmail.com (bwmd)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Thu, 19 Mar 2026 20:00:00 +0800</lastBuildDate><atom:link href="https://beiweimd.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2017 湖南邀请赛 A - Determinant</title><link>https://beiweimd.github.io/post/2026-03-19-determinant/</link><pubDate>Thu, 19 Mar 2026 20:00:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/2026-03-19-determinant/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bwmd</title><link>https://beiweimd.github.io/</link><description>Recent content from bwmd</description><generator>Hugo</generator><language>zh-CN</language><managingEditor>baoluolaiaoduo@gmail.com (bwmd)</managingEditor><webMaster>baoluolaiaoduo@gmail.com (bwmd)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sat, 21 Mar 2026 13:00:00 +0800</lastBuildDate><atom:link href="https://beiweimd.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>POJ 3910 - GCD Determinant</title><link>https://beiweimd.github.io/post/2026-03-21-gcd-determinant/</link><pubDate>Sat, 21 Mar 2026 13:00:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/2026-03-21-gcd-determinant/</guid><description>
+<![CDATA[<h1>POJ 3910 - GCD Determinant</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
+        
+          <h2 id="acm">
+<a class="header-anchor" href="#acm"></a>
+ACM
+</h2><h3 id="题意">
+<a class="header-anchor" href="#%e9%a2%98%e6%84%8f"></a>
+题意
+</h3><p>给定一组数 $x_1, x_2, \dots, x_n$。题目保证这组数构成的集合是 <strong>factor-closed</strong> 的，也就是因子封闭：</p>
+<ul>
+<li>如果 $x$ 在集合里</li>
+<li>那么 $x$ 的每个正因子也一定在集合里</li>
+</ul>
+<p>然后定义一个 $n \times n$ 的矩阵 $A$：</p>
+        
+        <hr><p>本文2026-03-21首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-03-21</p>]]></description><category>ACM</category></item><item><title>2017 湖南邀请赛 A - Determinant</title><link>https://beiweimd.github.io/post/2026-03-19-determinant/</link><pubDate>Thu, 19 Mar 2026 20:00:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/2026-03-19-determinant/</guid><description>
 <![CDATA[<h1>2017 湖南邀请赛 A - Determinant</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
         
           <h2 id="acm">
