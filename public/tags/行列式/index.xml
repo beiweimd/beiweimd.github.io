@@ -22,10 +22,12 @@ ACM
 <a class="header-anchor" href="#acm"></a>
 ACM
 </h2><ul>
-<li>题目链接：<a href="https://cn.bing.com/search?q=%222017&#43;%E6%B9%96%E5%8D%97%E9%82%80%E8%AF%B7%E8%B5%9B&#43;A&#43;-&#43;Determinant%22">2017 湖南邀请赛 A - Determinant（检索）</a>
-<code>r</code>n### 题意重述</li>
+<li>题目链接：<a href="https://ac.nowcoder.com/acm/contest/1109/A">2017 湖南邀请赛 A - Determinant</a></li>
 </ul>
-<p>给定一个 $(n-1) \times n$ 的矩阵，要求每删去一列后得到的 $(n-1) \times (n-1)$ 子矩阵行列式。</p>
+<h3 id="题意重述">
+<a class="header-anchor" href="#%e9%a2%98%e6%84%8f%e9%87%8d%e8%bf%b0"></a>
+题意重述
+</h3><p>给定一个 $(n-1) \times n$ 的矩阵，要求每删去一列后得到的 $(n-1) \times (n-1)$ 子矩阵行列式。</p>
 <p>这类量本质上就是同一行上的一组代数余子式。这里更准确地说，是“删列”，不是“删行”。</p>
         
         <hr><p>本文2026-03-19首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-03-19</p>]]></description><category>ACM</category><category>考研</category></item></channel></rss>

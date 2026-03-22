@@ -10,8 +10,10 @@ draft: false
 ---
 ## ACM
 
-- 题目链接：[2017 湖南邀请赛 A - Determinant（检索）](https://cn.bing.com/search?q=%222017+%E6%B9%96%E5%8D%97%E9%82%80%E8%AF%B7%E8%B5%9B+A+-+Determinant%22)
-`r`n### 题意重述
+- 题目链接：[2017 湖南邀请赛 A - Determinant](https://ac.nowcoder.com/acm/contest/1109/A)
+
+
+### 题意重述
 
 给定一个 $(n-1) \times n$ 的矩阵，要求每删去一列后得到的 $(n-1) \times (n-1)$ 子矩阵行列式。
 
