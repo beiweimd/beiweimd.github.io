@@ -26,12 +26,7 @@ ACM
 </h3><p>给定一个 $(n-1) \times n$ 的矩阵，要求每删去一列后得到的 $(n-1) \times (n-1)$ 子矩阵行列式。</p>
 <p>这类量本质上就是同一行上的一组代数余子式。这里更准确地说，是“删列”，不是“删行”。</p>
         
-        <hr><p>本文2026-03-19首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-03-19</p>]]></description><category>ACM</category><category>考研</category></item><item><title>Auto Deploy Test</title><link>https://beiweimd.github.io/post/auto-deploy-test/</link><pubDate>Mon, 23 Feb 2026 21:53:49 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/auto-deploy-test/</guid><description>
-<![CDATA[<h1>Auto Deploy Test</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
-        
-          
-        
-        <hr><p>本文2026-02-23首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-02-23</p>]]></description></item><item><title>2026-02-15</title><link>https://beiweimd.github.io/post/2026-02-15/</link><pubDate>Sun, 15 Feb 2026 09:30:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/2026-02-15/</guid><description>
+        <hr><p>本文2026-03-19首发于<a href='https://beiweimd.github.io/'>bwmd</a>，最后修改于2026-03-19</p>]]></description><category>ACM</category><category>考研</category></item><item><title>2026-02-15</title><link>https://beiweimd.github.io/post/2026-02-15/</link><pubDate>Sun, 15 Feb 2026 09:30:00 +0800</pubDate><author>baoluolaiaoduo@gmail.com (bwmd)</author><guid>https://beiweimd.github.io/post/2026-02-15/</guid><description>
 <![CDATA[<h1>2026-02-15</h1><p>作者：bwmd（baoluolaiaoduo@gmail.com）</p>
         
           <h2 id="考研线代">
