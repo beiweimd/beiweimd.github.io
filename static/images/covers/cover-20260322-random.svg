@@ -1,0 +1,51 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900' fill='none'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#EDF6F9'/>
+      <stop offset='100%' stop-color='#83C5BE'/>
+    </linearGradient>
+    <radialGradient id='glow' cx='0.2' cy='0.2' r='1'>
+      <stop offset='0%' stop-color='#FFFFFFCC'/>
+      <stop offset='100%' stop-color='#FFFFFF00'/>
+    </radialGradient>
+    <filter id='blur'>
+      <feGaussianBlur stdDeviation='24'/>
+    </filter>
+  </defs>
+  <rect width='1600' height='900' fill='url(#bg)'/>
+  <rect x='46' y='46' width='1508' height='808' rx='40' stroke='#1D3557' stroke-opacity='0.18' stroke-width='2'/>
+  <circle cx='250' cy='170' r='220' fill='url(#glow)' filter='url(#blur)' opacity='0.65'/>
+  <circle cx='1340' cy='760' r='260' fill='url(#glow)' filter='url(#blur)' opacity='0.45'/>
+  <path d='M0 710 C 220 620, 340 790, 570 710 S 980 520, 1220 650 S 1450 800, 1600 730 V 900 H 0 Z' fill='#FFFFFF2E'/>
+  <path d='M0 760 C 240 690, 390 845, 640 760 S 1060 580, 1310 700 S 1500 840, 1600 790' stroke='#1D3557' stroke-opacity='0.2' stroke-width='3' stroke-linecap='round'/>
+  <circle cx='715' cy='217' r='103' fill='#E76F51' opacity='0.31'/>
+  <circle cx='295' cy='612' r='84' fill='#E76F51' opacity='0.37'/>
+  <circle cx='703' cy='514' r='90' fill='#457B9D' opacity='0.23'/>
+  <circle cx='1113' cy='398' r='75' fill='#457B9D' opacity='0.41'/>
+  <circle cx='621' cy='571' r='57' fill='#FFB703' opacity='0.44'/>
+  <rect x='1347' y='695' width='129' height='18' rx='10' fill='#E76F51' opacity='0.45' transform='rotate(34 1347 695)'/>
+  <rect x='372' y='510' width='214' height='15' rx='10' fill='#457B9D' opacity='0.34' transform='rotate(-39 372 510)'/>
+  <rect x='302' y='719' width='255' height='11' rx='10' fill='#E76F51' opacity='0.42' transform='rotate(-19 302 719)'/>
+  <rect x='858' y='306' width='201' height='16' rx='10' fill='#FFFFFFAA' opacity='0.35' transform='rotate(39 858 306)'/>
+  <rect x='543' y='291' width='215' height='23' rx='10' fill='#457B9D' opacity='0.39' transform='rotate(-15 543 291)'/>
+  <rect x='458' y='429' width='93' height='12' rx='10' fill='#457B9D' opacity='0.36' transform='rotate(-18 458 429)'/>
+  <rect x='286' y='621' width='208' height='20' rx='10' fill='#1D3557' opacity='0.33' transform='rotate(29 286 621)'/>
+  <rect x='1203' y='367' width='170' height='8' rx='10' fill='#1D3557' opacity='0.35' transform='rotate(-26 1203 367)'/>
+  <circle cx='836' cy='530' r='3' fill='#FFB703' opacity='0.7'/>
+  <circle cx='655' cy='333' r='7' fill='#E76F51' opacity='0.7'/>
+  <circle cx='1513' cy='509' r='6' fill='#1D3557' opacity='0.7'/>
+  <circle cx='1283' cy='755' r='4' fill='#FFB703' opacity='0.7'/>
+  <circle cx='1423' cy='837' r='6' fill='#1D3557' opacity='0.7'/>
+  <circle cx='660' cy='512' r='7' fill='#457B9D' opacity='0.7'/>
+  <circle cx='266' cy='556' r='3' fill='#457B9D' opacity='0.7'/>
+  <circle cx='1372' cy='261' r='7' fill='#1D3557' opacity='0.7'/>
+  <circle cx='576' cy='158' r='6' fill='#FFB703' opacity='0.7'/>
+  <circle cx='1436' cy='309' r='7' fill='#E76F51' opacity='0.7'/>
+  <circle cx='796' cy='734' r='6' fill='#1D3557' opacity='0.7'/>
+  <circle cx='91' cy='693' r='4' fill='#E76F51' opacity='0.7'/>
+  <circle cx='675' cy='446' r='5' fill='#1D3557' opacity='0.7'/>
+  <circle cx='811' cy='813' r='7' fill='#FFB703' opacity='0.7'/>
+  <text x='104' y='160' fill='#1D3557' fill-opacity='0.88' font-size='66' font-family='Georgia, Times New Roman, serif'>Notes Draft</text>
+  <text x='108' y='222' fill='#1D3557' fill-opacity='0.52' font-size='24' font-family='Consolas, Monaco, monospace'>2026-03-22 / random local cover</text>
+  <text x='108' y='782' fill='#1D3557' fill-opacity='0.78' font-size='28' font-family='Georgia, Times New Roman, serif'>Edit title, replace cover if needed.</text>
+</svg>
