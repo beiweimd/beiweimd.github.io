@@ -4,10 +4,11 @@
           <h2 id="acm">
 <a class="header-anchor" href="#acm"></a>
 ACM
-</h2><h3 id="题意">
-<a class="header-anchor" href="#%e9%a2%98%e6%84%8f"></a>
-题意
-</h3><p>给定一组数 $x_1, x_2, \dots, x_n$。题目保证这组数构成的集合是 <strong>factor-closed</strong> 的，也就是因子封闭：</p>
+</h2><ul>
+<li>题目链接：<a href="http://poj.org/problem?id=3910">POJ 3910 - GCD Determinant</a>
+<code>r</code>n### 题意</li>
+</ul>
+<p>给定一组数 $x_1, x_2, \dots, x_n$。题目保证这组数构成的集合是 <strong>factor-closed</strong> 的，也就是因子封闭：</p>
 <ul>
 <li>如果 $x$ 在集合里</li>
 <li>那么 $x$ 的每个正因子也一定在集合里</li>

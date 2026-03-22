@@ -11,7 +11,8 @@ draft: false
 
 ## ACM
 
-### 题意
+- 题目链接：[POJ 3910 - GCD Determinant](http://poj.org/problem?id=3910)
+`r`n### 题意
 
 给定一组数 $x_1, x_2, \dots, x_n$。题目保证这组数构成的集合是 **factor-closed** 的，也就是因子封闭：
 
