@@ -30,6 +30,9 @@
   {{ $title | safeHTML }}
 </title>
 <meta name="description" content="{{ .Params.description | default .Site.Params.description | safeHTML }}"/>
+{{- if and .IsPage (not .Params.hidden) -}}
+<link rel="canonical" href="{{ .Permalink }}" />
+{{- end -}}
 {{- $keywords := default .Site.Params.keywords .Params.keywords -}}
 {{- with $keywords }}
   {{- if reflect.IsSlice . }}
