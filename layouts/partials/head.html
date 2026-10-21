@@ -131,7 +131,7 @@
 <!-- photo-swipe -->
 {{- partial "helpers/asyncCss.html" (dict "raw" $css.photoswipe "src" (index (partial "helpers/vendorCdn.html" (dict "item" $css.photoswipe "ctx" $site)) 0) "integrity" (index (partial "helpers/vendorCdnIntegrity.html" (dict "item" $css.photoswipe)) 0)) -}}
 <!-- katex -->
-{{- partial "helpers/asyncCss.html" (dict "raw" $css.katex "src" (index (partial "helpers/vendorCdn.html" (dict "item" $css.katex "ctx" $site)) 0) "integrity" (index (partial "helpers/vendorCdnIntegrity.html" (dict "item" $css.katex)) 0)) -}}
+<link rel="stylesheet" href="{{ "resources/katex@0.16.24/dist/katex.min.css" | relURL }}">
 <!-- waline -->
 {{- if and .Site.Params.waline.enable .Site.Params.waline.serverURL -}}
   {{- partial "helpers/css.html" (dict "raw" $css.waline "src" (index (partial "helpers/vendorCdn.html" (dict "item" $css.waline "ctx" $site)) 0) "integrity" (index (partial "helpers/vendorCdnIntegrity.html" (dict "item" $css.waline)) 0)) -}}
