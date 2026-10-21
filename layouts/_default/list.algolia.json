@@ -1,0 +1,19 @@
+{{- $limit := 1000 -}}
+[
+  {{- $pages := where .Page.Site.RegularPages "Section" "in" .Site.Params.mainSections -}}
+  {{- range $index, $entry := where $pages "Params.hidden" "ne" true -}}
+  {{ if $index }}, {{ end }}
+  {
+    "objectID": "{{ sha1 .RelPermalink }}",
+    "permalink": "{{ .Permalink | relURL }}",
+    "title": {{ .Title | jsonify }},
+    {{- if gt .WordCount $limit -}}
+    "content": {{ .Plain | truncate $limit | jsonify | safeJS }},
+    {{- else -}}
+    "content": {{ .Plain | jsonify | safeJS }},
+    {{- end -}}
+    "date": {{ .Date.Format $.Site.Params.timeFormat | jsonify }},
+    "updated": {{ .Lastmod.Format $.Site.Params.timeFormat | jsonify }}
+  }
+  {{- end -}}
+]
