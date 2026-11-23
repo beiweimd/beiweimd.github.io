@@ -88,7 +88,7 @@ footer:
   since: 2020 # 2020-current year
   powered: true
   count: true
-  busuanzi: true
+  busuanzi: false
   icon:
     url: "../images/taichi.png" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
     rotate: true
